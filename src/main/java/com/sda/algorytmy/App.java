@@ -15,6 +15,7 @@ public class App {
             wynik = wynik + a;
 
         }
+        wynik = wynik/n;
         System.out.println(wynik);
     }
 
